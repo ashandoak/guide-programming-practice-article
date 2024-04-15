@@ -14,14 +14,7 @@ To write a compelling blog/article on one of the following topics:
 - Refactoring practices.
 - Code testing approaches.
 
-### Criteria
-_More details can be found on Brightspace._
-- Include around 1000 words of text.
-- Have a well-defined value for a potential future learner in this course.
-- Include an introduction and conclusion.
-- Include at least six multi-line blocks of example code.
-- Include proper in-text citations (you can use GitHub Markdown footnotes[^1] to accomplish this, if you like).
-- Include a properly formatted bibliography or reference list (potentially connected to footnote links, but any citation format, such as [APA](https://library.nic.bc.ca/mla_guide) or [MLA](https://library.nic.bc.ca/apa7th/home) is appropriate).
+
 
 ## Some example articles
 The most important thing to remember is that your audience is potential future students in DGL 104. This means you can assume your reader has about the same level of experience in programming as someone who has recently completed CPS 100 (our Java programming course), and has knowledge of common programming concepts, such as variables, data collections, control flow, functions, objects, classes and basic object-oriented programming.
